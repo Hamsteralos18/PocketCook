@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "584993327374",
+    "project_id": "pocketcook-bf23c",
+    "storage_bucket": "pocketcook-bf23c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584993327374:android:8781764de038a7bf73af5f",
+        "android_client_info": {
+          "package_name": "com.example.mylogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUchssenbaWxVWYVV2Y2GSM7d7NYZnACI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
